@@ -11,11 +11,6 @@ arr.sort((a, b) => a- b)
 
 console.log(arr)
 
-<<<<<<< Updated upstream
 // 同事写的
 
 console.log('这是同事写的');
-=======
-// 哈哈
-
->>>>>>> Stashed changes
